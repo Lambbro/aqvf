@@ -1,0 +1,1005 @@
+{
+    "total_questions": 50,
+    "results": [
+        {
+            "question_id": 1,
+            "question": "Trong Java, một lớp có thể thực thi (implement) tối đa bao nhiêu Interface?",
+            "semantic_relevance": 0.8471404910087585,
+            "avg_similarity": 0.6234914660453796,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.6493302623986729,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.5132097601890564,
+            "all_clo_scores": {
+                "CLO1": 0.4165020287036896,
+                "CLO2": 0.5132097601890564,
+                "CLO3": 0.3967294692993164,
+                "CLO4": 0.2789103388786316
+            },
+            "difficulty_estimated": 0.1553878070234318,
+            "discrimination_estimated": 0.5249697458075221
+        },
+        {
+            "question_id": 2,
+            "question": "Phân tích tại sao việc sử dụng Composition (hợp thành) lại linh hoạt hơn Inheritance (kế thừa) khi yêu cầu hệ thống thay đổi?",
+            "semantic_relevance": 0.828001856803894,
+            "avg_similarity": 0.6124814748764038,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.6921970115331878,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.3165738582611084,
+            "all_clo_scores": {
+                "CLO1": 0.3052401840686798,
+                "CLO2": 0.18842919170856476,
+                "CLO3": 0.3165738582611084,
+                "CLO4": 0.24053633213043213
+            },
+            "difficulty_estimated": 0.41130133518378664,
+            "discrimination_estimated": 0.9685301874392841
+        },
+        {
+            "question_id": 3,
+            "question": "Thiết kế cấu trúc các lớp cho hệ thống quản lý \"Chấm công nhân viên\" gồm: Nhân viên, Phòng ban và Bảng công.",
+            "semantic_relevance": 0.8540336489677429,
+            "avg_similarity": 0.603398323059082,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.6513434946077495,
+            "bloom_consistent": true,
+            "best_clo": "CLO4",
+            "clo_similarity": 0.5308325290679932,
+            "all_clo_scores": {
+                "CLO1": 0.4987645745277405,
+                "CLO2": 0.2744496464729309,
+                "CLO3": 0.38646450638771057,
+                "CLO4": 0.5308325290679932
+            },
+            "difficulty_estimated": 0.5283833417504278,
+            "discrimination_estimated": 0.9967775436443137
+        },
+        {
+            "question_id": 4,
+            "question": "Giải thích sự khác biệt giữa lỗi biên dịch (Compile-time error) và lỗi thực thi (Runtime error).",
+            "semantic_relevance": 0.7159866094589233,
+            "avg_similarity": 0.595885694026947,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.6787595833886481,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.273299902677536,
+            "all_clo_scores": {
+                "CLO1": 0.26853662729263306,
+                "CLO2": 0.273299902677536,
+                "CLO3": 0.2614927291870117,
+                "CLO4": 0.0848875418305397
+            },
+            "difficulty_estimated": 0.2574262664717369,
+            "discrimination_estimated": 0.7646319352086368
+        },
+        {
+            "question_id": 5,
+            "question": "Viết đoạn mã Java sử dụng ArrayList để lưu trữ và in ra danh sách các số nguyên.",
+            "semantic_relevance": 0.8906663060188293,
+            "avg_similarity": 0.6392749547958374,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.7429056297300015,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.5167829990386963,
+            "all_clo_scores": {
+                "CLO1": 0.3658856749534607,
+                "CLO2": 0.5167829990386963,
+                "CLO3": 0.29582634568214417,
+                "CLO4": 0.12581518292427063
+            },
+            "difficulty_estimated": 0.2937720201651977,
+            "discrimination_estimated": 0.8298800813330256
+        },
+        {
+            "question_id": 6,
+            "question": "Đánh giá ưu và nhược điểm của việc sử dụng Abstract Class so với Interface trong thiết kế Framework.",
+            "semantic_relevance": 0.8238182067871094,
+            "avg_similarity": 0.6215143203735352,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.7152616412302356,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.5622450113296509,
+            "all_clo_scores": {
+                "CLO1": 0.5622450113296509,
+                "CLO2": 0.3726525604724884,
+                "CLO3": 0.4723719358444214,
+                "CLO4": 0.39930492639541626
+            },
+            "difficulty_estimated": 0.48766429694116725,
+            "discrimination_estimated": 0.9993913217201771
+        },
+        {
+            "question_id": 7,
+            "question": "Từ khóa nào được dùng để ngăn cản một lớp không cho phép các lớp khác kế thừa?",
+            "semantic_relevance": 0.8271979093551636,
+            "avg_similarity": 0.623663067817688,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.7001664405873342,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.2419012188911438,
+            "all_clo_scores": {
+                "CLO1": 0.14337289333343506,
+                "CLO2": 0.08818870037794113,
+                "CLO3": 0.2419012188911438,
+                "CLO4": 0.16618618369102478
+            },
+            "difficulty_estimated": 0.16156125275509492,
+            "discrimination_estimated": 0.541836857453197
+        },
+        {
+            "question_id": 8,
+            "question": "Sáng tạo một custom Exception có tên InvalidScoreException để xử lý lỗi nhập điểm ngoài khoảng 0-10.",
+            "semantic_relevance": 0.8157855272293091,
+            "avg_similarity": 0.6216405034065247,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.49305864974187635,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.27885785698890686,
+            "all_clo_scores": {
+                "CLO1": 0.27885785698890686,
+                "CLO2": 0.24166317284107208,
+                "CLO3": 0.23401495814323425,
+                "CLO4": 0.12687283754348755
+            },
+            "difficulty_estimated": 0.5403540054668595,
+            "discrimination_estimated": 0.9934862169711227
+        },
+        {
+            "question_id": 9,
+            "question": "Phân tích cơ chế \"Late Binding\" giúp Java thực hiện tính đa hình như thế nào?",
+            "semantic_relevance": 0.8249286413192749,
+            "avg_similarity": 0.6313331127166748,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.5687007651965739,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.48122480511665344,
+            "all_clo_scores": {
+                "CLO1": 0.33748888969421387,
+                "CLO2": 0.48122480511665344,
+                "CLO3": 0.30664920806884766,
+                "CLO4": 0.21159803867340088
+            },
+            "difficulty_estimated": 0.4123000256591949,
+            "discrimination_estimated": 0.9692348580024885
+        },
+        {
+            "question_id": 10,
+            "question": "Vận dụng xử lý xâu: Viết mã lệnh để đảo ngược một chuỗi không dùng hàm reverse() có sẵn.",
+            "semantic_relevance": 0.7840251326560974,
+            "avg_similarity": 0.6372441649436951,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.7514060508568499,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.3774659037590027,
+            "all_clo_scores": {
+                "CLO1": 0.348492294549942,
+                "CLO2": 0.37176239490509033,
+                "CLO3": 0.3774659037590027,
+                "CLO4": 0.03853931277990341
+            },
+            "difficulty_estimated": 0.3269619622357929,
+            "discrimination_estimated": 0.8802313499468514
+        },
+        {
+            "question_id": 11,
+            "question": "Tại sao phương thức main trong Java bắt buộc phải có từ khóa static?",
+            "semantic_relevance": 0.8413861989974976,
+            "avg_similarity": 0.6066341996192932,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.49376468892354614,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.3968525528907776,
+            "all_clo_scores": {
+                "CLO1": 0.2351827621459961,
+                "CLO2": 0.3968525528907776,
+                "CLO3": 0.29208704829216003,
+                "CLO4": 0.046201303601264954
+            },
+            "difficulty_estimated": 0.20711126496547372,
+            "discrimination_estimated": 0.6568647555595002
+        },
+        {
+            "question_id": 12,
+            "question": "Thẩm định thiết kế: Việc một lớp con truy cập trực tiếp thuộc tính protected của lớp cha có vi phạm tính đóng gói không?",
+            "semantic_relevance": 0.8490408658981323,
+            "avg_similarity": 0.6113947629928589,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.561962156598328,
+            "bloom_consistent": true,
+            "best_clo": "CLO4",
+            "clo_similarity": 0.34107810258865356,
+            "all_clo_scores": {
+                "CLO1": 0.31492650508880615,
+                "CLO2": 0.13875333964824677,
+                "CLO3": 0.32666194438934326,
+                "CLO4": 0.34107810258865356
+            },
+            "difficulty_estimated": 0.47982870864239097,
+            "discrimination_estimated": 0.9983724760198659
+        },
+        {
+            "question_id": 13,
+            "question": "Interface Comparable chứa duy nhất phương thức trừu tượng nào?",
+            "semantic_relevance": 0.833774209022522,
+            "avg_similarity": 0.628764271736145,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.6207277863842801,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.4944450855255127,
+            "all_clo_scores": {
+                "CLO1": 0.4944450855255127,
+                "CLO2": 0.2898086905479431,
+                "CLO3": 0.41674965620040894,
+                "CLO4": 0.20676639676094055
+            },
+            "difficulty_estimated": 0.15946273347492435,
+            "discrimination_estimated": 0.5361374804305183
+        },
+        {
+            "question_id": 14,
+            "question": "So sánh hiệu năng và mục đích sử dụng giữa HashMap và TreeMap.",
+            "semantic_relevance": 0.8289017677307129,
+            "avg_similarity": 0.6094329357147217,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.543242577040802,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.41239532828330994,
+            "all_clo_scores": {
+                "CLO1": 0.41239532828330994,
+                "CLO2": 0.3672919273376465,
+                "CLO3": 0.36871784925460815,
+                "CLO4": 0.2753622531890869
+            },
+            "difficulty_estimated": 0.4110115128267096,
+            "discrimination_estimated": 0.9683241966024366
+        },
+        {
+            "question_id": 15,
+            "question": "Sử dụng Scanner để nhập một danh sách đối tượng SinhVien từ bàn phím và lưu vào File văn bản.",
+            "semantic_relevance": 0.7339986562728882,
+            "avg_similarity": 0.601793646812439,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.6037592010556367,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.3271281123161316,
+            "all_clo_scores": {
+                "CLO1": 0.3271281123161316,
+                "CLO2": 0.1962655484676361,
+                "CLO3": 0.2773355543613434,
+                "CLO4": 0.17043790221214294
+            },
+            "difficulty_estimated": 0.3485917076438577,
+            "discrimination_estimated": 0.9083021160231878
+        },
+        {
+            "question_id": 16,
+            "question": "Đề xuất giải pháp thiết kế để một lớp User có thể đăng nhập bằng nhiều phương thức (Email, SĐT, Facebook).",
+            "semantic_relevance": 0.8138704299926758,
+            "avg_similarity": 0.613722562789917,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.6561485504162866,
+            "bloom_consistent": true,
+            "best_clo": "CLO4",
+            "clo_similarity": 0.5947253704071045,
+            "all_clo_scores": {
+                "CLO1": 0.5695322155952454,
+                "CLO2": 0.3942108154296875,
+                "CLO3": 0.5851752161979675,
+                "CLO4": 0.5947253704071045
+            },
+            "difficulty_estimated": 0.5410095798372756,
+            "discrimination_estimated": 0.9932728574462805
+        },
+        {
+            "question_id": 17,
+            "question": "Giải thích tại sao lớp con không thể kế thừa các phương thức khởi tạo (Constructor) của lớp cha.",
+            "semantic_relevance": 0.8384974002838135,
+            "avg_similarity": 0.6199473738670349,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.6556792360657768,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.41237199306488037,
+            "all_clo_scores": {
+                "CLO1": 0.2863122224807739,
+                "CLO2": 0.2668430209159851,
+                "CLO3": 0.41237199306488037,
+                "CLO4": 0.34800422191619873
+            },
+            "difficulty_estimated": 0.20799397426499952,
+            "discrimination_estimated": 0.6589299237378009
+        },
+        {
+            "question_id": 18,
+            "question": "Đánh giá rủi ro khi sử dụng kiểu double cho các tính toán liên quan đến tiền tệ thay vì BigDecimal.",
+            "semantic_relevance": 0.7805495858192444,
+            "avg_similarity": 0.5691266059875488,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.5274865395659994,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.22607576847076416,
+            "all_clo_scores": {
+                "CLO1": 0.22607576847076416,
+                "CLO2": 0.0991360992193222,
+                "CLO3": 0.15935054421424866,
+                "CLO4": -0.08256956934928894
+            },
+            "difficulty_estimated": 0.5033296585627675,
+            "discrimination_estimated": 0.9999556534954216
+        },
+        {
+            "question_id": 19,
+            "question": "Phạm vi truy cập (Access Modifier) mặc định khi không khai báo từ khóa nào là gì?",
+            "semantic_relevance": 0.7877653241157532,
+            "avg_similarity": 0.6161044836044312,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.6848158076947592,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.2630881667137146,
+            "all_clo_scores": {
+                "CLO1": 0.2630881667137146,
+                "CLO2": 0.1450747549533844,
+                "CLO3": 0.24318614602088928,
+                "CLO4": 0.14757627248764038
+            },
+            "difficulty_estimated": 0.17551201333978828,
+            "discrimination_estimated": 0.578830186052809
+        },
+        {
+            "question_id": 20,
+            "question": "Phân tích luồng xử lý của khối finally khi trong khối try có lệnh return.",
+            "semantic_relevance": 0.8303563594818115,
+            "avg_similarity": 0.6647899746894836,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.6140263772750418,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.47373339533805847,
+            "all_clo_scores": {
+                "CLO1": 0.47373339533805847,
+                "CLO2": 0.2967744767665863,
+                "CLO3": 0.40497028827667236,
+                "CLO4": 0.22371739149093628
+            },
+            "difficulty_estimated": 0.4105455468095743,
+            "discrimination_estimated": 0.9679916032176078
+        },
+        {
+            "question_id": 21,
+            "question": "Cài đặt phương thức equals() để so sánh hai đối tượng Hóa đơn dựa trên mã hóa đơn và ngày tạo.",
+            "semantic_relevance": 0.8008816242218018,
+            "avg_similarity": 0.6521954536437988,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.615141681911279,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.41803961992263794,
+            "all_clo_scores": {
+                "CLO1": 0.41803961992263794,
+                "CLO2": 0.2918831408023834,
+                "CLO3": 0.36065539717674255,
+                "CLO4": 0.12411468476057053
+            },
+            "difficulty_estimated": 0.32060418339599295,
+            "discrimination_estimated": 0.8712685639399259
+        },
+        {
+            "question_id": 22,
+            "question": "Tại sao Java không hỗ trợ đa kế thừa trực tiếp từ nhiều lớp cha?",
+            "semantic_relevance": 0.881017804145813,
+            "avg_similarity": 0.5942437648773193,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.5328333896118753,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.4197680950164795,
+            "all_clo_scores": {
+                "CLO1": 0.13610391318798065,
+                "CLO2": 0.4197680950164795,
+                "CLO3": 0.24551215767860413,
+                "CLO4": 0.1244271919131279
+            },
+            "difficulty_estimated": 0.19614007131794017,
+            "discrimination_estimated": 0.630676574965334
+        },
+        {
+            "question_id": 23,
+            "question": "Thiết kế một lớp Generic Box<T> có thể chứa và hiển thị thông tin của bất kỳ loại đối tượng nào.",
+            "semantic_relevance": 0.8442466259002686,
+            "avg_similarity": 0.6279739141464233,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.48323377318837063,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.4745960831642151,
+            "all_clo_scores": {
+                "CLO1": 0.4745960831642151,
+                "CLO2": 0.2608714997768402,
+                "CLO3": 0.39917755126953125,
+                "CLO4": 0.2413986623287201
+            },
+            "difficulty_estimated": 0.5312487791373451,
+            "discrimination_estimated": 0.9960940552097017
+        },
+        {
+            "question_id": 24,
+            "question": "Lựa chọn cấu trúc dữ liệu phù hợp để quản lý danh sách bệnh nhân chờ khám theo thứ tự ưu tiên.",
+            "semantic_relevance": 0.7792946100234985,
+            "avg_similarity": 0.5994548201560974,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.5423828573781974,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.4596773386001587,
+            "all_clo_scores": {
+                "CLO1": 0.4596773386001587,
+                "CLO2": 0.19608139991760254,
+                "CLO3": 0.2832259237766266,
+                "CLO4": 0.38366466760635376
+            },
+            "difficulty_estimated": 0.5038283570667496,
+            "discrimination_estimated": 0.9999413747286778
+        },
+        {
+            "question_id": 25,
+            "question": "Phương thức println() thuộc lớp nào và gói (package) nào trong Java?",
+            "semantic_relevance": 0.8770337700843811,
+            "avg_similarity": 0.6276549100875854,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.7303946051712447,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.5547541379928589,
+            "all_clo_scores": {
+                "CLO1": 0.34625527262687683,
+                "CLO2": 0.5547541379928589,
+                "CLO3": 0.33281058073043823,
+                "CLO4": 0.1584223210811615
+            },
+            "difficulty_estimated": 0.14715103836209,
+            "discrimination_estimated": 0.5019904410841949
+        },
+        {
+            "question_id": 26,
+            "question": "Phân tích sự khác biệt về bộ nhớ khi khởi tạo chuỗi bằng String s = \"abc\" và String s = new String(\"abc\").",
+            "semantic_relevance": 0.7767699956893921,
+            "avg_similarity": 0.6179777979850769,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.6093690527354938,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.18667319416999817,
+            "all_clo_scores": {
+                "CLO1": 0.15653294324874878,
+                "CLO2": 0.18667319416999817,
+                "CLO3": 0.11356393992900848,
+                "CLO4": -0.0029996372759342194
+            },
+            "difficulty_estimated": 0.42983939517346315,
+            "discrimination_estimated": 0.9803099581214981
+        },
+        {
+            "question_id": 27,
+            "question": "Sử dụng đa hình để gọi phương thức tinhLuong() từ một danh sách chứa cả NhanVienChinhThuc và NhanVienThoiVu.",
+            "semantic_relevance": 0.730868399143219,
+            "avg_similarity": 0.6089768409729004,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.5583806303315803,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.33018481731414795,
+            "all_clo_scores": {
+                "CLO1": 0.33018481731414795,
+                "CLO2": 0.3052818179130554,
+                "CLO3": 0.30020031332969666,
+                "CLO4": 0.21419757604599
+            },
+            "difficulty_estimated": 0.35008674550111135,
+            "discrimination_estimated": 0.9101040645022057
+        },
+        {
+            "question_id": 28,
+            "question": "Giải thích cơ chế ném ngoại lệ (Exception Bubbling) từ phương thức thấp lên phương thức cao.",
+            "semantic_relevance": 0.7551850080490112,
+            "avg_similarity": 0.602656364440918,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.6132498893548971,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.23594681918621063,
+            "all_clo_scores": {
+                "CLO1": 0.23594681918621063,
+                "CLO2": 0.14683394134044647,
+                "CLO3": 0.21325549483299255,
+                "CLO4": 0.12693360447883606
+            },
+            "difficulty_estimated": 0.23891566526164848,
+            "discrimination_estimated": 0.7273398806169297
+        },
+        {
+            "question_id": 29,
+            "question": "Thẩm định ý kiến: \"Mọi phương thức trong một Interface đều mặc định là public và abstract\".",
+            "semantic_relevance": 0.8774778246879578,
+            "avg_similarity": 0.5983220338821411,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.498475700186858,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.45445388555526733,
+            "all_clo_scores": {
+                "CLO1": 0.45445388555526733,
+                "CLO2": 0.23916596174240112,
+                "CLO3": 0.33611828088760376,
+                "CLO4": 0.29870134592056274
+            },
+            "difficulty_estimated": 0.47203738224285885,
+            "discrimination_estimated": 0.9968723680326721
+        },
+        {
+            "question_id": 30,
+            "question": "Xây dựng một ứng dụng Java Console mô phỏng quản lý kho hàng sử dụng HashMap.",
+            "semantic_relevance": 0.8108384609222412,
+            "avg_similarity": 0.582444429397583,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.7373492917431296,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.6100802421569824,
+            "all_clo_scores": {
+                "CLO1": 0.45871254801750183,
+                "CLO2": 0.6100802421569824,
+                "CLO3": 0.4429967999458313,
+                "CLO4": 0.3025728762149811
+            },
+            "difficulty_estimated": 0.5420588760667423,
+            "discrimination_estimated": 0.9929242037760097
+        },
+        {
+            "question_id": 31,
+            "question": "Ký hiệu nào dùng để bắt đầu một khối chú thích (comment) nhiều dòng trong Java?",
+            "semantic_relevance": 0.8309743404388428,
+            "avg_similarity": 0.6203721165657043,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.7164034838646625,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.4226644039154053,
+            "all_clo_scores": {
+                "CLO1": 0.1913946270942688,
+                "CLO2": 0.4226644039154053,
+                "CLO3": 0.14234796166419983,
+                "CLO4": 0.06298637390136719
+            },
+            "difficulty_estimated": 0.16034851235178604,
+            "discrimination_estimated": 0.5385474677534207
+        },
+        {
+            "question_id": 32,
+            "question": "Phân tích tại sao việc lạm dụng từ khóa static có thể làm hỏng tư duy lập trình hướng đối tượng.",
+            "semantic_relevance": 0.8356137275695801,
+            "avg_similarity": 0.6294174194335938,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.536997661486247,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.41038942337036133,
+            "all_clo_scores": {
+                "CLO1": 0.4064127504825592,
+                "CLO2": 0.2574375867843628,
+                "CLO3": 0.41038942337036133,
+                "CLO4": 0.1904257982969284
+            },
+            "difficulty_estimated": 0.40888691478951056,
+            "discrimination_estimated": 0.9667936228137044
+        },
+        {
+            "question_id": 33,
+            "question": "Viết mã lệnh sử dụng Collections.sort() để sắp xếp danh sách sản phẩm theo giá giảm dần.",
+            "semantic_relevance": 0.848422110080719,
+            "avg_similarity": 0.6505497097969055,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.7045880538769839,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.3837833106517792,
+            "all_clo_scores": {
+                "CLO1": 0.3837833106517792,
+                "CLO2": 0.24297520518302917,
+                "CLO3": 0.3486572802066803,
+                "CLO4": 0.24807485938072205
+            },
+            "difficulty_estimated": 0.3050102037936325,
+            "discrimination_estimated": 0.8479159175015971
+        },
+        {
+            "question_id": 34,
+            "question": "Mô tả mối quan hệ \"is-a\" và \"has-a\" thông qua ví dụ về lớp XeOto và DongCo.",
+            "semantic_relevance": 0.7017485499382019,
+            "avg_similarity": 0.5755714178085327,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.6363405850440643,
+            "bloom_consistent": true,
+            "best_clo": "CLO4",
+            "clo_similarity": 0.17901058495044708,
+            "all_clo_scores": {
+                "CLO1": 0.16479896008968353,
+                "CLO2": 0.0030500106513500214,
+                "CLO3": 0.11777765303850174,
+                "CLO4": 0.17901058495044708
+            },
+            "difficulty_estimated": 0.26480706634449647,
+            "discrimination_estimated": 0.7787371358340717
+        },
+        {
+            "question_id": 35,
+            "question": "Đánh giá tính hiệu quả của việc đóng File bằng try-with-resources so với cách đóng thủ công trong finally.",
+            "semantic_relevance": 0.7421666383743286,
+            "avg_similarity": 0.6061239242553711,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.7194237804426737,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.39384305477142334,
+            "all_clo_scores": {
+                "CLO1": 0.39384305477142334,
+                "CLO2": 0.29442933201789856,
+                "CLO3": 0.367579847574234,
+                "CLO4": 0.33961668610572815
+            },
+            "difficulty_estimated": 0.5197701592537405,
+            "discrimination_estimated": 0.998436563212327
+        },
+        {
+            "question_id": 36,
+            "question": "Thiết kế hệ thống lớp cho ứng dụng quản lý Rạp chiếu phim (Phim, Phòng chiếu, Suất chiếu).",
+            "semantic_relevance": 0.793408989906311,
+            "avg_similarity": 0.5778653621673584,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.7045317222982856,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.4797854721546173,
+            "all_clo_scores": {
+                "CLO1": 0.4797854721546173,
+                "CLO2": 0.35219138860702515,
+                "CLO3": 0.4243958592414856,
+                "CLO4": 0.41133517026901245
+            },
+            "difficulty_estimated": 0.5483667481042414,
+            "discrimination_estimated": 0.9906426307112834
+        },
+        {
+            "question_id": 37,
+            "question": "Từ khóa super() dùng để làm gì trong hàm khởi tạo của lớp con?",
+            "semantic_relevance": 0.7604303359985352,
+            "avg_similarity": 0.6313462853431702,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.5893812268728619,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.274625301361084,
+            "all_clo_scores": {
+                "CLO1": 0.2592690885066986,
+                "CLO2": 0.24542883038520813,
+                "CLO3": 0.274625301361084,
+                "CLO4": 0.17398327589035034
+            },
+            "difficulty_estimated": 0.18663822834108673,
+            "discrimination_estimated": 0.6072176002511483
+        },
+        {
+            "question_id": 38,
+            "question": "Phân tích sự khác biệt giữa Shallow Copy và Deep Copy khi sao chép một đối tượng chứa danh sách.",
+            "semantic_relevance": 0.770919144153595,
+            "avg_similarity": 0.6129113435745239,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.5741259652223645,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.17411452531814575,
+            "all_clo_scores": {
+                "CLO1": 0.17411452531814575,
+                "CLO2": 0.02543552964925766,
+                "CLO3": 0.1155378669500351,
+                "CLO4": 0.12671047449111938
+            },
+            "difficulty_estimated": 0.43222285326315446,
+            "discrimination_estimated": 0.9816250335208484
+        },
+        {
+            "question_id": 39,
+            "question": "Vận dụng StringBuilder để nối 1000 chuỗi ký tự trong một vòng lặp nhằm tối ưu bộ nhớ.",
+            "semantic_relevance": 0.7882050275802612,
+            "avg_similarity": 0.6361310482025146,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.5344301403275843,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.3508296608924866,
+            "all_clo_scores": {
+                "CLO1": 0.2695375084877014,
+                "CLO2": 0.3508296608924866,
+                "CLO3": 0.29763472080230713,
+                "CLO4": 0.19005343317985535
+            },
+            "difficulty_estimated": 0.3253430382541663,
+            "discrimination_estimated": 0.8779797828548576
+        },
+        {
+            "question_id": 40,
+            "question": "Tại sao nên ném (throw) một RuntimeException thay vì một Checked Exception trong một số trường hợp?",
+            "semantic_relevance": 0.8098547458648682,
+            "avg_similarity": 0.6142453551292419,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.4921488740208437,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.27084583044052124,
+            "all_clo_scores": {
+                "CLO1": 0.2538590133190155,
+                "CLO2": 0.27084583044052124,
+                "CLO3": 0.22371947765350342,
+                "CLO4": 0.08954226225614548
+            },
+            "difficulty_estimated": 0.21740233380359458,
+            "discrimination_estimated": 0.68055423624138
+        },
+        {
+            "question_id": 41,
+            "question": "Đánh giá mức độ bảo mật của một lớp nếu tất cả các phương thức setter đều không kiểm tra tính hợp lệ của dữ liệu.",
+            "semantic_relevance": 0.7942835688591003,
+            "avg_similarity": 0.6345919966697693,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.6509986849937451,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.3510567545890808,
+            "all_clo_scores": {
+                "CLO1": 0.3510567545890808,
+                "CLO2": 0.1636362075805664,
+                "CLO3": 0.29931339621543884,
+                "CLO4": 0.1977960169315338
+            },
+            "difficulty_estimated": 0.4980388575443909,
+            "discrimination_estimated": 0.9999846156810752
+        },
+        {
+            "question_id": 42,
+            "question": "Đề xuất mô hình lớp kế thừa cho các loại tài khoản ngân hàng (Tiết kiệm, Tín dụng, Thanh toán).",
+            "semantic_relevance": 0.7125124335289001,
+            "avg_similarity": 0.5801050066947937,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.542547404374518,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.3345224857330322,
+            "all_clo_scores": {
+                "CLO1": 0.3345224857330322,
+                "CLO2": 0.08919918537139893,
+                "CLO3": 0.27618661522865295,
+                "CLO4": 0.22650238871574402
+            },
+            "difficulty_estimated": 0.5841949008654388,
+            "discrimination_estimated": 0.9716448746730357
+        },
+        {
+            "question_id": 43,
+            "question": "Kiểu dữ liệu nguyên thủy nào dùng để lưu trữ một ký tự Unicode 16-bit?",
+            "semantic_relevance": 0.7447415590286255,
+            "avg_similarity": 0.5926388502120972,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.6787030012239875,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.14580224454402924,
+            "all_clo_scores": {
+                "CLO1": 0.11298014223575592,
+                "CLO2": 0.14580224454402924,
+                "CLO3": 0.07595854997634888,
+                "CLO4": 0.02572842873632908
+            },
+            "difficulty_estimated": 0.19358920945807884,
+            "discrimination_estimated": 0.6244497097578996
+        },
+        {
+            "question_id": 44,
+            "question": "Phân tích tại sao một phương thức final không thể bị ghi đè (Override).",
+            "semantic_relevance": 0.7691859006881714,
+            "avg_similarity": 0.6062104105949402,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.6580060293816534,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.36413055658340454,
+            "all_clo_scores": {
+                "CLO1": 0.32161974906921387,
+                "CLO2": 0.21015915274620056,
+                "CLO3": 0.36413055658340454,
+                "CLO4": 0.15929880738258362
+            },
+            "difficulty_estimated": 0.4329398088777527,
+            "discrimination_estimated": 0.9820117230665906
+        },
+        {
+            "question_id": 45,
+            "question": "Sử dụng instanceof để kiểm tra và ép kiểu an toàn khi duyệt danh sách các đối tượng hình học.",
+            "semantic_relevance": 0.7955788373947144,
+            "avg_similarity": 0.647642195224762,
+            "bloom_label": "BT3",
+            "predicted_label": "BT3",
+            "bloom_confidence": 0.5161083724794837,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.546392560005188,
+            "all_clo_scores": {
+                "CLO1": 0.546392560005188,
+                "CLO2": 0.25376635789871216,
+                "CLO3": 0.36249083280563354,
+                "CLO4": 0.2475835084915161
+            },
+            "difficulty_estimated": 0.3225554779665629,
+            "discrimination_estimated": 0.8740537664013003
+        },
+        {
+            "question_id": 46,
+            "question": "Giải thích vai trò của bộ thu gom rác (Garbage Collector) trong việc quản lý bộ nhớ Heap.",
+            "semantic_relevance": 0.7576742768287659,
+            "avg_similarity": 0.5928592085838318,
+            "bloom_label": "BT2",
+            "predicted_label": "BT2",
+            "bloom_confidence": 0.5604985983848908,
+            "bloom_consistent": true,
+            "best_clo": "CLO4",
+            "clo_similarity": 0.2630139887332916,
+            "all_clo_scores": {
+                "CLO1": 0.21871724724769592,
+                "CLO2": 0.10544626414775848,
+                "CLO3": 0.2629261910915375,
+                "CLO4": 0.2630139887332916
+            },
+            "difficulty_estimated": 0.2378290657821633,
+            "discrimination_estimated": 0.725065605005387
+        },
+        {
+            "question_id": 47,
+            "question": "Phê bình thiết kế lớp SinhVien nếu nó chứa cả mã lệnh để in báo cáo ra máy in (Vi phạm đơn nhiệm).",
+            "semantic_relevance": 0.7415450811386108,
+            "avg_similarity": 0.6275283694267273,
+            "bloom_label": "BT5",
+            "predicted_label": "BT5",
+            "bloom_confidence": 0.48461857273554093,
+            "bloom_consistent": true,
+            "best_clo": "CLO1",
+            "clo_similarity": 0.37744513154029846,
+            "all_clo_scores": {
+                "CLO1": 0.37744513154029846,
+                "CLO2": 0.26995712518692017,
+                "CLO3": 0.3522213101387024,
+                "CLO4": 0.21316103637218475
+            },
+            "difficulty_estimated": 0.5200569320956223,
+            "discrimination_estimated": 0.9983908778996464
+        },
+        {
+            "question_id": 48,
+            "question": "Sáng tạo một lớp SmartPhone thực thi đồng thời các Interface: Camera, Phone, WebBrowser.",
+            "semantic_relevance": 0.7447991371154785,
+            "avg_similarity": 0.5814218521118164,
+            "bloom_label": "BT6",
+            "predicted_label": "BT6",
+            "bloom_confidence": 0.5389855298123228,
+            "bloom_consistent": true,
+            "best_clo": "CLO3",
+            "clo_similarity": 0.4380038380622864,
+            "all_clo_scores": {
+                "CLO1": 0.40577220916748047,
+                "CLO2": 0.30025574564933777,
+                "CLO3": 0.4380038380622864,
+                "CLO4": 0.3028353452682495
+            },
+            "difficulty_estimated": 0.5685629320485404,
+            "discrimination_estimated": 0.981196497395629
+        },
+        {
+            "question_id": 49,
+            "question": "Lớp nào là lớp cha của mọi lớp trong ngôn ngữ lập trình Java?",
+            "semantic_relevance": 0.8953840732574463,
+            "avg_similarity": 0.6208333969116211,
+            "bloom_label": "BT1",
+            "predicted_label": "BT1",
+            "bloom_confidence": 0.5799809176695575,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.5407335758209229,
+            "all_clo_scores": {
+                "CLO1": 0.25493767857551575,
+                "CLO2": 0.5407335758209229,
+                "CLO3": 0.2916015684604645,
+                "CLO4": 0.20042821764945984
+            },
+            "difficulty_estimated": 0.14265457432029952,
+            "discrimination_estimated": 0.4892169869831747
+        },
+        {
+            "question_id": 50,
+            "question": "Phân tích cách Java xử lý xung đột khi một lớp implement hai Interface có cùng phương thức default.",
+            "semantic_relevance": 0.8494610786437988,
+            "avg_similarity": 0.6219972372055054,
+            "bloom_label": "BT4",
+            "predicted_label": "BT4",
+            "bloom_confidence": 0.6433733269266,
+            "bloom_consistent": true,
+            "best_clo": "CLO2",
+            "clo_similarity": 0.5373131036758423,
+            "all_clo_scores": {
+                "CLO1": 0.47319266200065613,
+                "CLO2": 0.5373131036758423,
+                "CLO3": 0.4255351722240448,
+                "CLO4": 0.21365778148174286
+            },
+            "difficulty_estimated": 0.40470575024384575,
+            "discrimination_estimated": 0.9636760238536467
+        }
+    ]
+}

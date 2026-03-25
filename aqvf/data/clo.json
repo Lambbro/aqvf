@@ -1,0 +1,18 @@
+[
+  {
+    "clo_id": "CLO1",
+    "description": "Tổng hợp và phân tích được các đặc trưng của lập trình hướng đối tượng và vận dụng được để thiết kế được cấu trúc của ứng dụng hướng đối tượng với các bài toán thực tiễn."
+  },
+  {
+    "clo_id": "CLO2",
+    "description": "Sử dụng thành thạo ngôn ngữ lập trình Java để xây dựng ứng dụng giải quyết các bài toán thực tiễn."
+  },
+  {
+    "clo_id": "CLO3",
+    "description": "Vận dụng được các kỹ thuật lập trình lớp, lập trình kế thừa, cơ chế ảo và trừu tượng vào việc xây dựng ứng dụng hướng đối tượng giải quyết một bài toán thực tiễn."
+  },
+  {
+    "clo_id": "CLO4",
+    "description": "Tổ chức và phối hợp với các thành viên trong nhóm để xây dựng được ứng dụng hướng đối tượng theo yêu cầu của dự án học phần."
+  }
+]
