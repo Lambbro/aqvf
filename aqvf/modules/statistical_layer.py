@@ -6,7 +6,8 @@ class StatisticalLayer:
 
         # logistic transform
         k = 6
-        diff_s = 1 / (1 + np.exp(-k * (0.5 - semantic_relevance)))
+        mu = 0.5
+        diff_s = 1 / (1 + np.exp(-k * (mu - semantic_relevance)))
 
         bloom_weight = {
             "BT1": 0.2,
