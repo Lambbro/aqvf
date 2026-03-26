@@ -1,7 +1,7 @@
 # AQVF
 - /clo-extractions/: trích xuất chuẩn đầu ra CLO từ file thành các câu
 - /aqvf/: các modules
-  - data: Dữ liệu tổng hợp được sử dụng
+  - data: Dữ liệu tổng hợp được sử dụng và kết quả
   - modules: các hàm trong mô hình
     - bloom_classifier.py: mô hình phân loại theo thang Bloom
     - clo_alignment.py: embedding CLO và mapping với embedding của câu hỏi
@@ -10,4 +10,3 @@
     - statistical_layer.py: tính difficulty và discrimination estimation
     - utils.py: tác vụ đọc ghi khác
   - main.py: chạy chương trình
-  - qa_report.json: lưu kết quả sơ bộ của phần kiểm thử trước 
